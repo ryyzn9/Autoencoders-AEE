@@ -8,7 +8,7 @@ def train(dataloaders, model,loss_fn,optim ,epochs,device, noisy= None,super_res
     tqdm_iter = tqdm(range(epochs))#you cn
     train_dataLoader , test_dataLoader = dataloaders[0],dataloaders[1]
 
-    for epoch in tqdm_iter: # you put batch inspite of epoch
+    for epoch in tqdm_iter: # you put batch inspite of epo
         model.train()#put the model into the treaning mode 
         train_loss =0.0
         test_loss = 0.0
