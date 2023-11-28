@@ -1,5 +1,5 @@
 # Autoencoder-for-Noise reduction.
-Note :this is a practice project so it is very simple and I did it because I want to practice the git hub and vscode. I am realy comfortable with google colab but not in vscode so this is for noly practice
+Note :this is a practice project so it is very simple and I did it because I want to practice the git hub and vscode. I am realy comfortable with google colab but not in vscode so this is for only practice
 
 
 this is a simple autoencoder to reduce the noise of the images.
